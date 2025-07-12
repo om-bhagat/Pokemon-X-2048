@@ -40,9 +40,3 @@ Each value maps to a Pokémon:
 | 512        | Blastoise    | `512.jpg`       |
 | 1024       | Pikachu      | `1024.jpg`      |
 | 2048       | Mewtwo       | `2048.png`      |
-
-> *(You can replace these with any Pokémon or themes you want by editing `imageMap` in the JavaScript.)*
-
----
-
-## 🚀 Getting Started
